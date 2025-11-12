@@ -1,0 +1,5 @@
+{
+  "name": "Life.py: The React RPG",
+  "description": "A modern life RPG simulator built with React and TypeScript, inspired by the extensive Life.py script. This application features a rich terminal-style UI, deep character progression with stats, inventory, equipment, jobs, and finances. Explore a detailed world, engage in activities, and interact with an AI-powered world through the Gemini API for dynamic, procedurally generated descriptions.",
+  "requestFramePermissions": []
+}
